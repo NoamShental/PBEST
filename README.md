@@ -11,9 +11,7 @@ The protocol allows screening 384 samples using 48 pools, where each sample appe
 
 Pools should be prepared using a liquid handling robot. 
 
-As an example, the "**robotRelatedFiles**" directory provides the programming code for a Arise Ezmate-601 robot.
-
-The experimental protocol is provided in 
+As an example, the "**robotRelatedFiles**" directory provides the programming code for a Arise Ezmate-601 robot, and an experimental protocol: "**practical research plan - pooling - CORONA.docx**".
 
 Simple text files describing pooling design appear in the "**ExpData**" directory.
 
